@@ -1,3 +1,7 @@
+###################
+######## RADIO ####
+###################
+
 # Americana Roots Radio
 #EXTINF:-1,tvg-logo="https://arrowbluesrock.nl/wp-content/uploads/2019/04/ARROW-BLUESROCK-header-site-dikkere-rand.png", radio="true",Americana Roots Radio
 https://igor.torontocast.com:1945/stream
@@ -25,3 +29,11 @@ http://144.217.29.205:80/
 # Radio Paradise
 #EXTINF:-1,tvg-logo="https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png",radio="true",Radio Paradise
 https://stream.radioparadise.com/mp3-320
+
+
+###################
+######### TV ######
+###################
+
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://over.npo.nl/images/zenders/npo-1.png" tvg-url="" group-title="",NPO 1 (342p)
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
