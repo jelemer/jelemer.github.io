@@ -16,7 +16,7 @@ https://stream.gal.io/arrow
 
 # BBC Radio 6
 #EXTINF:-1,tvg-logo="https://www.radio.net/images/broadcasts/4a/cd/11932/1/c175.png", radio="true",BBC Radio 6
-https://www.bbc.co.uk/sounds/play/live:bbc_6music
+https://stream.live.vc.bbcmedia.co.uk/bbc_6music
 
 # FIP
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png", radio="true",FIP
@@ -24,14 +24,14 @@ http://direct.fipradio.fr/live/fip-midfi.mp3
 
 # KINK
 #EXTINF:-1,tvg-logo="https://kink.nl/static/icon.png", radio="true",KINK
-https://playerservices.streamtheworld.com/pls/KINK.pls
+http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
 
 # Pinguin Aardschok
-#EXTINF:-1,tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinaardschok.svg", radio="true",Pinguin Aardschok
+#EXTINF:-1,tvg-logo="https://dbs.radioline.fr/pictures/radio_bf84a410917146f7c465297cdeb3ff4d/logo200.jpg?size=600", radio="true",Pinguin Aardschok
 https://streams.pinguinradio.com/Aardschok192.mp3
 
 # Pinguin Indie
-#EXTINF:-1,tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinindie.svg", radio="true",Pinguin Indie
+#EXTINF:-1,tvg-logo="https://dbs.radioline.fr/pictures/radio_bf84a410917146f7c465297cdeb3ff4d/logo200.jpg?size=600", radio="true",Pinguin Indie
 http://streams.pinguinradio.com/PinguinRadio192.mp3
 
 # Soma - Groove Salad
