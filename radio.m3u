@@ -1,0 +1,27 @@
+# Americana Roots Radio
+#EXTINF:-1,tvg-logo="https://arrowbluesrock.nl/wp-content/uploads/2019/04/ARROW-BLUESROCK-header-site-dikkere-rand.png", radio="true",Americana Roots Radio
+https://igor.torontocast.com:1945/stream
+
+# Arrow - BluesRock
+#EXTINF:-1,tvg-logo="https://arrowbluesrock.nl/wp-content/uploads/2019/04/ARROW-BLUESROCK-header-site-dikkere-rand.png", radio="true",Arrow BluesRock
+http://stream.arrowbluesbox.nl/bluesboxonline
+
+# Arrow - Classic Rock
+#EXTINF:-1,tvg-logo="https://www.arrow.nl/wp-content/uploads/2020/08/logo.png", radio="true",Arrow Classic Rock
+https://stream.gal.io/arrow
+
+# FIP
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png", radio="true",FIP
+http://direct.fipradio.fr/live/fip-midfi.mp3
+
+# Soma - Groove Salad
+#EXTINF:-1,tvg-logo="http://image.noelshack.com/minis/2017/02/1484272726-somafm.png", radio="true",Groove Salad
+http://ice1.somafm.com/groovesalad-128-mp3
+
+# HardRadio
+#EXTINF:-1,tvg-logo="https://hardradio.com/logos/hardradio_chrome_375.gif",radio="true",HardRadio
+http://144.217.29.205:80/
+
+# Radio Paradise
+#EXTINF:-1,tvg-logo="https://radioparadise.com/rpassets/images/logo/icon_flat_black_padded_62x50.png",radio="true",Radio Paradise
+https://stream.radioparadise.com/mp3-320
