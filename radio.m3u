@@ -14,9 +14,25 @@ http://stream.arrowbluesbox.nl/bluesboxonline
 #EXTINF:-1,tvg-logo="https://www.arrow.nl/wp-content/uploads/2020/08/logo.png", radio="true",Arrow Classic Rock
 https://stream.gal.io/arrow
 
+# BBC Radio 6
+#EXTINF:-1,tvg-logo="https://www.radio.net/images/broadcasts/4a/cd/11932/1/c175.png", radio="true",BBC Radio 6
+https://www.bbc.co.uk/sounds/play/live:bbc_6music
+
 # FIP
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png", radio="true",FIP
 http://direct.fipradio.fr/live/fip-midfi.mp3
+
+# KINK
+#EXTINF:-1,tvg-logo="https://kink.nl/static/icon.png", radio="true",KINK
+https://playerservices.streamtheworld.com/pls/KINK.pls
+
+# Pinguin Aardschok
+#EXTINF:-1,tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinaardschok.svg", radio="true",Pinguin Aardschok
+https://streams.pinguinradio.com/Aardschok192.mp3
+
+# Pinguin Indie
+#EXTINF:-1,tvg-logo="https://pinguinradio.com/assets/img/logo/pinguinindie.svg", radio="true",Pinguin Indie
+http://streams.pinguinradio.com/PinguinRadio192.mp3
 
 # Soma - Groove Salad
 #EXTINF:-1,tvg-logo="http://image.noelshack.com/minis/2017/02/1484272726-somafm.png", radio="true",Groove Salad
